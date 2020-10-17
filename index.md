@@ -1,9 +1,3 @@
----
-layout: page
-title: "aurelia-bulma-plugin"
-permalink: /index-html
----
-
 ## Welcome to Curious Probability
 
 You can use the [editor on GitHub](https://github.com/curious-probability/curious-probability.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
