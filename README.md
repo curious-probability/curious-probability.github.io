@@ -1,2 +1,3 @@
-# curious-probability.github.io
-Project Documention
+Curious Probability
+-------------------
+Project Documentation
