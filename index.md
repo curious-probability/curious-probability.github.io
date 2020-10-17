@@ -1,6 +1,8 @@
+---
 layout: page
 title: "aurelia-bulma-plugin"
 permalink: /index-html
+---
 
 ## Welcome to Curious Probability
 
